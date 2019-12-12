@@ -1,0 +1,60 @@
+.output-node {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    color: #777;
+    border-bottom: 1px solid #444444;
+    font-weight: bold;
+}
+
+.output-node:last-child {
+    border-bottom: none;
+}
+
+.output-miss-node {
+    color: rgb(243, 121, 0);
+}
+
+.output-miss-node .aim-page {
+    color: #444444;
+    background-color: rgb(243, 121, 0);
+}
+
+.page {
+    margin: 4px 2px;
+    font-size: 16px;
+    padding: 1px;
+}
+
+.miss-page {
+    background-color: red;
+    padding: 0 4px;
+    color: #444444;
+    font-weight: bold;
+}
+
+.hit-aim-page {
+    background-color: rgb(6, 173, 6);
+    font-weight: bold;
+    color: #444444;
+}
+
+.aim-page {
+    background-color: #777777;
+    color: #444444;
+}
+
+.hit-page {
+    color: rgb(6, 173, 6);
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.ref {
+    font-weight: bolder;
+    color: #333333;
+}
+
+.percentage {
+    font-size: 13px;
+}

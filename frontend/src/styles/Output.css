@@ -1,0 +1,14 @@
+.out-div {
+    border-bottom: solid #444444;
+}
+
+.method-name {
+    border-bottom: solid #444444;
+    padding-bottom: 5px;
+    margin-top: 2px;
+}
+
+.head {
+    font-size: 14px;
+}
+

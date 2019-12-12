@@ -1,0 +1,33 @@
+.my-process {
+    margin: 10px;
+    background-color: #61dafb;
+    flex-grow: 0;
+    border-radius: 8px;
+}
+
+.my-span {
+    margin: 5px 10px;
+}
+
+.refs {
+    font-size: 18px;
+    border-radius: 5px;
+    margin: 5px;
+    width: 450px;
+    height: 120px;
+}
+
+.del-btn {
+    background-color: red;
+    border: 0;
+    color: #61dafb;
+    font-size: 25px;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 3px;
+    width: 25%;
+}
+
+.del-btn:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,26 @@
+.output-popup {
+    display: inline-flex;
+    overflow-x: auto;
+}
+
+.popup {
+    padding: 10px;
+}
+
+.exit {
+    margin: 3px;
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+    font-size: 32px;
+    transform: rotate(45deg);
+    color: red;
+}
+
+.exit:hover {
+    transform: scale(1.5) rotate(45deg);
+}
+
+.exit:focus {
+    outline: 0;
+}

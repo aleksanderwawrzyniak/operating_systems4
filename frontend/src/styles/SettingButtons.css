@@ -1,0 +1,11 @@
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    font-size: 18px;
+    padding: 5px;
+    background-color: lightgray;
+    border-radius: 5px;
+}

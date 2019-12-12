@@ -1,0 +1,22 @@
+.output-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.out {
+    align-self: auto;
+}
+
+.del-out {
+    align-self: flex-start;
+    color: white;
+    background-color: red;
+    border-radius: 3px;
+    border: transparent;
+}
+
+.del-out:hover {
+    transform: scale(1.3);
+}

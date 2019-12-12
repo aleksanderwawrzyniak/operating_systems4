@@ -1,0 +1,14 @@
+
+.process {
+    padding: 5px;
+    border-top: solid #444444;
+    font-size: 12px;
+}
+
+.process:last-child {
+    border-bottom: solid #444444;
+}
+
+.span {
+    padding: 0 3px;
+}

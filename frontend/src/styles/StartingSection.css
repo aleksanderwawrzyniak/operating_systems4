@@ -1,0 +1,36 @@
+.start {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+}
+
+.selects {
+    display: flex;
+    justify-content: center;
+}
+
+.start-btn {
+    font-size: 25px;
+    color: #61dafb;
+    background-color: #282c34;
+    border-radius: 10px;
+    padding: 10px;
+    width: 300px;
+}
+
+.start-btn:hover {
+    background-color: #222;
+}
+
+.select-field {
+    font-size: 23px;
+    padding: 10px;
+    text-align: center;
+    text-align-last: center;
+    margin: 5px 10px 5px 10px;
+}
+
+.my-select {
+    font-size: 15px;
+}

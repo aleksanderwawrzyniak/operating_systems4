@@ -1,0 +1,16 @@
+.component {
+    padding: 2px;
+}
+
+.programme {
+    border-right: 2px solid #444444;
+    border-left: 2px solid #444444;
+    padding: 5px;
+    background-color: rgba(97, 218, 251, 0.6);
+    border-radius: 5px;
+    margin: 1px;
+    min-width: 115px;
+    width: auto;
+    align-self: flex-start;
+}
+

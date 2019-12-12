@@ -1,0 +1,17 @@
+.close-btn {
+    color: red;
+    transform: rotate(45deg);
+    font-size: 100px;
+    border-radius: 50%;
+    background-color: #555555;
+    border: solid #555555;
+}
+
+.processes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.back {
+    background-color: #555555;
+}
